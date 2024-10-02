@@ -7,3 +7,4 @@
 1. **Contexto histórico**
     - **Mandato Británico de Palestina**: Tras la *Primera Guerra Mundial*, la región de Palestina quedó bajo ***control británico***.
     - **Inmigración judía**: Aumentó tras el *Holocausto* y la persecución en Europa generó tensiones. 
+2. **Temas clave del conflicto**
