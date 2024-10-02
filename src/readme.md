@@ -10,4 +10,4 @@
 2. **Temas clave del conflicto**
    - **Territorio**: Disputa sobre *Gaza* y *Jerusalén Este*.
    - **Seguridad**: Preocupaciones de *Israel* por ataques de grupos como ***Hamás***.
-   
+ 3.  **Situación actual**
