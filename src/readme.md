@@ -2,4 +2,8 @@
 
 ## Inicio del conlficto
 
-![bandera_palestina](https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Palestine_%28original_version%29.svg)
+![bandera.jpg](../img/bandera.jpg)
+
+1. **Contexto histórico**
+    - **Mandato Británico de Palestina**: Tras la *Primera Guerra Mundial*, la región de Palestina quedó bajo control británico.
+    - **Inmigración judía**: Aumentó tras el *Holocausto* y la persecución en Europa generó tensiones. 
