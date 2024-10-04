@@ -11,5 +11,7 @@
    - **Territorio**: Disputa sobre *Gaza* y *Jerusalén Este*.
    - **Seguridad**: Preocupaciones de *Israel* por ataques de grupos como ***Hamás***.
  3.  **Situación actual**
-     - **Tensiones**, violencia intermitente y bloqueos en ***Gaza***.
-   
+     - **Tensiones**, violencia y bloqueos en ***Gaza***.
+     
+![stopwar.jpg](../img/stopwar.jpg)
+***FIN***
